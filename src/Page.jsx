@@ -130,7 +130,7 @@ function Page() {
 
   return (
     <div>
-      <h1 className="text-3xl font-bold mb-4 text-center">
+      <h1 className="text-2xl sm:text-3xl font-bold mb-4 text-center">
         Matching Fleet Calculator
       </h1>
       <main>

@@ -1,8 +1,11 @@
 import Page from "./Page";
 
 function App() {
-  return <Page />;
-  // return <p className="bg-red-500">Hello</p>;
+  return (
+    <div className="container">
+      <Page />
+    </div>
+  );
 }
 
 export default App;
