@@ -40,7 +40,7 @@ export const stdOperationalLoader = [
     cycleTimeOB: 23,
     jobEfficiencyOB: 0.9,
     fillFactorCoal: 0.75,
-    cycleTimeCoal: 22,
+    cycleTimeCoal: 25,
     jobEfficiencyCoal: 0.75,
   },
   {
@@ -50,7 +50,7 @@ export const stdOperationalLoader = [
     cycleTimeOB: 23,
     jobEfficiencyOB: 0.9,
     fillFactorCoal: 0.75,
-    cycleTimeCoal: 22,
+    cycleTimeCoal: 25,
     jobEfficiencyCoal: 0.75,
   },
   {
@@ -70,7 +70,7 @@ export const stdOperationalLoader = [
     cycleTimeOB: 24,
     jobEfficiencyOB: 0.85,
     fillFactorCoal: 0.75,
-    cycleTimeCoal: 22,
+    cycleTimeCoal: 25,
     jobEfficiencyCoal: 0.75,
   },
   {
@@ -97,7 +97,7 @@ export const stdOperationalLoader = [
     loaderClass: "EC480",
     bucketCap: 2.7,
     fillFactorOB: 0.85,
-    cycleTimeOB: 23,
+    cycleTimeOB: 24,
     jobEfficiencyOB: 0.9,
     fillFactorCoal: 0.75,
     cycleTimeCoal: 26,

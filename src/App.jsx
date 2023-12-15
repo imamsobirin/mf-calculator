@@ -2,7 +2,7 @@ import Page from "./Page";
 
 function App() {
   return (
-    <div className="container">
+    <div className="container mx-auto">
       <Page />
     </div>
   );
